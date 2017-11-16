@@ -1,0 +1,6 @@
+Changed :
+
+This is the copy of /examples/standard/index.html.
+Line 142~145 was changed due to the addition of proper images.
+Title was changed.
+Share button was added.
